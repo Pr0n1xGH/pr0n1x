@@ -4,6 +4,5 @@
 - 📫 How to reach me: [@devspribe](https://t.me/devspribe)
 - ⚡ Fun fact: **I like black tea**
 
-<br/>
-
+<h3 align="center">⚙️ Stats</h3>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pr0n1xGH&show_icons=true&theme=tokyonight)
