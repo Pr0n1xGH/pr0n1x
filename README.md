@@ -1,5 +1,3 @@
-[![Header](https://github.com/Pr0n1xGH/pr0n1x/blob/main/pr0n1x.png)](https://github.com/Pr0n1xGH/spribe-userbot)
-
 <h1 align="center">Hi 👋, my name is Denis</h1>
 
 - 🔭 I’m currently working on [Spribe-Userbot](https://github.com/Pr0n1xGH/spribe-userbot)
