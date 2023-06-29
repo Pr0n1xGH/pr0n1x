@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Denis</h1>
+<h1 align="center">Hi 👋</h1>
 
 - 🔭 I’m currently working on [Spribe-Userbot](https://github.com/Pr0n1xGH/spribe-userbot)
 - 📫 How to reach me: [@devspribe](https://t.me/devspribe)
