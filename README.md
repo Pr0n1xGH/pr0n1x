@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 
 - 🔭 I’m currently working on [Spribe-Userbot](https://github.com/Pr0n1xGH/spribe-userbot)
-- 📫 How to reach me: [@devspribe](https://t.me/devspribe)
+- 📫 How to reach me: [@nob0dy_tg](https://t.me/nob0dy_tg)
 - ⚡ Fun fact: **I like black tea**
 
 # ⚙️ Stats
